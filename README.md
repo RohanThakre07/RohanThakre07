@@ -6,11 +6,11 @@ I am currently looking for entry-level Data Analyst roles where I can contribute
 
 ## Skills
 
-**Languages:** Python, SQL, Java, JavaScript  
+**Languages:** Python, SQL, Java, JavaScript, TypeScript  
 **Data Analysis:** Pandas, NumPy, EDA, data cleaning  
 **Visualization:** Power BI, DAX, Matplotlib, Seaborn  
 **Databases:** MySQL  
-**Web & Tools:** HTML5, CSS3, ReactJS, Microsoft Excel, Git, GitHub, Jupyter Notebook, VS Code
+**Web & Tools:** HTML5, CSS3, ReactJS, Vite, Express, Microsoft Excel, Git, GitHub, Jupyter Notebook, VS Code
 
 ## Featured Projects
 
