@@ -49,9 +49,9 @@ I am currently looking for **entry-level Data Analyst roles** where I can contri
 
 ## GitHub Activity
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohanThakre07&show_icons=true&theme=default&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanThakre07&layout=compact&hide_border=true)
+- Active repositories focus on data analytics, Power BI reporting, machine learning projects, and React-based project interfaces.
+- Featured work includes one analytics dashboard repository, two prediction-focused data projects, and one responsive frontend project.
+- Recent improvements are focused on clearer documentation, realistic project descriptions, setup steps, and recruiter-friendly presentation.
 
 ## Currently Improving
 
