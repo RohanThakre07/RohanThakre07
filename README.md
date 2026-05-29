@@ -43,9 +43,9 @@ I am currently looking for **entry-level Data Analyst roles** where I can contri
 | Project | What it demonstrates | Tools |
 | --- | --- | --- |
 | [Pune Real Estate Price Prediction App](https://github.com/RohanThakre07/Predicting-Price-of-Real-Estate-Using-Deep-Learning-and-Regression-Techniques) | Pune property price prediction app with dataset-driven inputs, model comparison, dashboard metrics, and prediction API | React, TypeScript, Express, ML |
-| [Sales Analysis Dashboard / PowerBI](https://github.com/RohanThakre07/PowerBI) | Power BI dashboard files, business reporting practice, KPI views, and analysis-ready datasets | Power BI, DAX, Excel |
+| [Sales Analysis Dashboard / Power BI](https://github.com/RohanThakre07/PowerBI) | Power BI dashboard files, business reporting practice, KPI views, and analysis-ready datasets | Power BI, DAX, Excel |
 | [Survival Predictions Portal](https://github.com/RohanThakre07/Survival-Predictions-Portal) | Interactive portal for notebooks, datasets, prediction forms, and source-file exploration | React, TypeScript, Python notebooks |
-| [Adventure Aura - Travelling Web](https://github.com/RohanThakre07/Adventure-Aura--Travelling-Web) | Responsive travel website with destination search, package cards, booking modal, and local image assets | React, TypeScript, Vite, CSS |
+| [Adventure Aura - Travel Website](https://github.com/RohanThakre07/Adventure-Aura--Travelling-Web) | Responsive travel website with destination search, package cards, booking modal, and local image assets | React, TypeScript, Vite, CSS |
 
 ## GitHub Activity
 
